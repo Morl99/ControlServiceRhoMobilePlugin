@@ -1,0 +1,9 @@
+ext/platform/android/generated/src/com/rho/controlservice/ControlServiceBase.java
+ext/platform/android/generated/src/com/rho/controlservice/ControlServiceFactorySingleton.java
+ext/platform/android/generated/src/com/rho/controlservice/ControlServiceSingletonBase.java
+ext/platform/android/generated/src/com/rho/controlservice/IControlService.java
+ext/platform/android/generated/src/com/rho/controlservice/IControlServiceFactory.java
+ext/platform/android/generated/src/com/rho/controlservice/IControlServiceSingleton.java
+ext/platform/android/src/com/rho/controlservice/ControlService.java
+ext/platform/android/src/com/rho/controlservice/ControlServiceFactory.java
+ext/platform/android/src/com/rho/controlservice/ControlServiceSingleton.java

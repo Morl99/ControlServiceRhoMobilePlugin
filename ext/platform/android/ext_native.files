@@ -1,0 +1,7 @@
+ext/platform/android/generated/jni/ControlService.cpp
+ext/platform/android/generated/jni/controlservice_ruby_wrap.cpp
+ext/platform/android/generated/jni/controlservice_js_wrap.cpp
+ext/platform/android/jni/ControlService_impl.cpp
+ext/shared/generated/controlservice_api_init.cpp
+ext/shared/generated/controlservice_js_api.cpp
+ext/shared/generated/controlservice_ruby_api.c

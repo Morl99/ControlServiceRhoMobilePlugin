@@ -1,0 +1,15 @@
+entry: Init_ControlService_extension
+javaentry: com.controlservice.ControlService
+libraries: ["ControlService"]
+android:
+  source_list: ext/platform/android/ext_java.files
+wp8:
+  csharp_impl: yes
+  root_namespace: rho
+
+project_paths:
+  wp8: ext/platform/wp8/ControlServiceLib.vcxproj
+  wm: ext/platform/wm/ControlService.vcproj
+  win32: ext/platform/wm/ControlService.vcproj
+  
+xml_api_paths: ext/ControlService.xml
